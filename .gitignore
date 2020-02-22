@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+.ninja_deps
+.ninja_log
+CMakeCache.txt
+CMakeFiles/
+Example0
+build.ninja
+cmake_install.cmake
+rules.ninja
